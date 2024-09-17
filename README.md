@@ -15,11 +15,11 @@ Wellcum 2 ma GitHub profile! Im a passionate fullstack web developer, game devel
 - **Others**: Sqlite, Prisma, Firebase, Clerk, Appwrite, MongoDb, Axum, Actix, Git, Cargo, Wasm
 
 ### 💼 Top Projects
-- **Kwowts**: [A platform to post unique quotes](https://kwowts.vercel.app/).
-- **Wehthr**: [Realtime weather application](https://wehthr.vercel.app/).
-- **22 (TwoDue)**: [Todo app](https://22twodue.netlify.app/).
-- **Paynt**: [Paint app](https://paynt.netlify.app/).
-- **69s Camera**: [Web-based film camera](https://69scamera.netlify.app/).
+- [Kwowts](https://kwowts.vercel.app/): A platform to post unique quotes.
+- [Wehthr](https://wehthr.vercel.app/): Realtime weather application.
+- [22 (TwoDue)](https://22twodue.netlify.app/): Todo app.
+- [Paynt](https://paynt.netlify.app/): Paint app.
+- [69s Camera](https://69scamera.netlify.app/): Web-based film camera.
 
 ### 🔗 Connect with Me
 - 🌐 [My Portfolio](https://rayengdoura.vercel.app/)

@@ -1,4 +1,4 @@
-# Suhh! ⸸ Im Rayen
+# Suhh! ✌️ Im Rayen
 Wellcum 2 ma GitHub profile! Im a passionate fullstack web developer, game developer n software engineer wit a knack 4 building robust, efficient, scalable web applications n fun games.
 
 ### 🧛🏿 About Me
@@ -6,7 +6,7 @@ Wellcum 2 ma GitHub profile! Im a passionate fullstack web developer, game devel
 - 🎓 In ma final year of university, workin on a BIG project.
 - 🩸 From **12** awled selma, Tunisia
 - 🦇 I enjoy workin on freelance projects, helpin businesses with their website redesigns, n creatin fullstack apps to showcase my expertise.
-- 💋 Big carti fan, FWÆH
+- 💋 Big carti fan, FWÆH⸸
 
 ### 🛠️ Techs & Tools
 - **Languages**: Rust, C/C++, Html/Css/Js, Python
